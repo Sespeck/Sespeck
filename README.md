@@ -10,7 +10,7 @@ Software Engineer, Attending CS Master at Northeastern University
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning MERN stack and Flutter
 - 💞️ I’m looking to collaborate on full-stack web/app development
-- 🖥️  See my portfolio at [Sean Wang](https://sespeck.github.io/portfolio/)
+- 🖥️  See my portfolio at [this link](https://sespeck.github.io/portfolio/)
 - 📫 Reach me at sean.wang.zhenyu@gmail.com
 
 
