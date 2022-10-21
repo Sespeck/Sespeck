@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Zhenyu Wang
+- 👋 Hi, I’m Sean Zhenyu Wang, Master of Computer Science at Northeastern University
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning MERN stack and Flutter
 - 💞️ I’m looking to collaborate on full-stack web/app development
